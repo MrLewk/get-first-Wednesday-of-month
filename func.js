@@ -13,4 +13,5 @@ function firstWednesdayOfMonth(year, month) {
 //February = 1
 //March = 2
 //Etc...
-console.log(firstWednesdayOfMonth(2023, 0)); // January 4th, 2023
+
+//firstWednesdayOfMonth(2023, 0)); //--> Wed Jan 04 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
